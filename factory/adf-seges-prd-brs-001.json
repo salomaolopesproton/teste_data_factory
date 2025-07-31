@@ -1,0 +1,9 @@
+{
+	"name": "adf-seges-prd-brs-001",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a25784c-6ef0-40f0-b5f4-5cc344404e12",
+		"tenantId": "a72493bc-1722-44c1-9666-ce55bed1bbfd"
+	}
+}
